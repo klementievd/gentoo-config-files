@@ -1,0 +1,13 @@
+gui-wm/sway swaybar swaynag grimshot tray
+
+# required by media-libs/mesa-23.0.3-r1::gentoo[wayland]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.76-r1::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=dev-libs/wayland-1.22.0 abi_x86_32
+# required by x11-libs/libdrm-2.4.115::gentoo[video_cards_intel]
+# required by media-libs/mesa-23.0.3-r1::gentoo[video_cards_radeonsi]
+# required by virtual/opengl-7.0-r2::gentoo
+# required by games-util/steam-launcher-1.0.0.76-r1::steam-overlay[steamruntime]
+# required by games-util/steam-launcher (argument)
+>=x11-libs/libpciaccess-0.17-r1 abi_x86_32

@@ -1,0 +1,7 @@
+sys-auth/seatd builtin elogind server
+# required by app-editors/emacs-28.2-r8::gentoo
+# required by app-editors/emacs (argument)
+>=app-emacs/emacs-common-1.8 gui
+# required by app-editors/emacs-28.2-r8::gentoo[jit]
+# required by app-emacs/emacs-common-1.8::gentoo
+>=sys-devel/gcc-12.3.1_p20230526 jit

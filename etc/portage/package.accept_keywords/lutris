@@ -1,0 +1,4 @@
+=games-util/lutris-9999::gentoo **
+=dev-python/pypresence-4.2.1 ~amd64
+=dev-python/moddb-0.8.1 ~amd64
+=dev-python/pyrate-limiter-2.10.0 ~amd64

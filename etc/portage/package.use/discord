@@ -1,0 +1,2 @@
+>=app-text/ghostscript-gpl-10.01.1 cups
+>=app-crypt/gcr-3.41.1-r2:0 gtk

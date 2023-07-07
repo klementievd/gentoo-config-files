@@ -1,0 +1,5 @@
+>=app-text/xmlto-0.0.28-r10 text
+>=media-video/ffmpeg-4.4.4-r2 opus vpx
+>=sys-libs/zlib-1.2.13-r1 minizip
+>=dev-qt/qtgui-5.15.9 jpeg dbus egl
+>=dev-qt/qtcore-5.15.9 icu

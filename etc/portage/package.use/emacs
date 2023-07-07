@@ -1,0 +1,3 @@
+app-emacs/emacs-common gui
+app-editors/emacs gui gtk jit tree-sitter threads png jpeg gif xft -X
+sys-devel/gcc jit

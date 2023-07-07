@@ -1,0 +1,3 @@
+[submodule "home/klementievd/.config/emacs"]
+	path = home/klementievd/.config/emacs
+	url = https://github.com/klementievd/emacs-config

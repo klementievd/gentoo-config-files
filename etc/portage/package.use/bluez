@@ -1,0 +1,1 @@
+net-wireless/bluez -doc -deprecated -experimental -extra-tools -test -test-programs

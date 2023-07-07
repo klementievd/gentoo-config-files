@@ -1,0 +1,2 @@
+games-util/gamemode -systemd elogind
+>=sys-apps/dbus-1.15.4-r1 elogind
