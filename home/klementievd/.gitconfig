@@ -1,3 +1,5 @@
 [user]
 	name = Dmitry
 	email = klementievd@proton.me
+[init]
+	defaultBranch = dev
