@@ -1,2 +1,2 @@
-gui-wm/sway swaybar swaynag grimshot tray
-
+gui-wm/sway X -swaybar swaynag grimshot -tray -man wallpapers
+>=gui-apps/swaybg-1.2.0 gdk-pixbuf
